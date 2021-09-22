@@ -74,5 +74,6 @@ public class MainActivity extends AppCompatActivity {
                 || super.onSupportNavigateUp();
 
         //This is my Assignment of Android Development//
+        //My Name is Rakhi Devi Malhotra. I am a student of Canadore college Scarborough.//
     }
 }
